@@ -11,7 +11,7 @@
       4. Du setzt das Datum vom letzten geprüften Führungszeugnis in der Mitarbeiter-Tabelle auf das entsprechende Datum.
 2. Falls es neue Mitarbeiter gibt, trägst du sie in die Tabelle ein. Dazu einfach die Daten unten in der letzten, freien Zeile eintragen. Auch hier beantragt ihr das Führungszeugnis, füllt die Leitlinien aus und ladet diese hoch.
 Folgende Mitarbeiter musst du eintragen: Jeder ab 14 Jahren, der bei Veranstaltungen bzw. Maßnahmen (also Aktionen mit Kindern, die in der Verantwortung der EC-Jugendarbeit laufen) ab einer Übernachtung oder regelmäßig in der wöchentlichen Jugendarbeit mitarbeitet. Kurz gesagt: Eigentlich alle Mitarbeiter in der Jugendarbeit müssen diese Leitlinien unterzeichnen und ein erweitertes Führungszeugnis vorlegen. Schnuppermitarbeiter (1-2 Monate) brauchen noch kein Führungszeugnis.
-3. Nach und nach werden die Zeilen der Mitarbeiter grün. Ob alles passt, schaust du in der Checkliste nach. Manche der Checkboxen werden automatisch gefüllt, andere musst du selber anklicken, wenn du den entsprechenden Punkt erledigt hast. Wenn alles in Ordnung ist, erscheint im Hilfetext ein grünes Häckchen.
+3. Nach und nach werden die Zeilen der Mitarbeiter grün. Ob alles passt, kannst du in der Checkliste nachschauen. Manche der Checkboxen werden automatisch gefüllt, wenn alles richtig in der Mitarbeiter-Tabelle eingetragen ist. Andere musst du selber anklicken, wenn du den entsprechenden Punkt erledigt hast. Wenn alles in Ordnung ist, erscheint im Hilfetext ein grünes Häckchen.
 
 ## Wo finde ich was
 
