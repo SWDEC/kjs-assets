@@ -6,6 +6,8 @@
 
 Du gehst in der Mitarbeiter-Detailansicht alle Mitarbeiter deiner Jugendarbeit durch. Nachdem du in der linken Hälfte auf jemanden gelklickt hast, siehst du rechts die Eigenschaften und den Zustand. Alle weiteren wichtigen Infos für die Person findest du in der Hilfe-Box rechts oben.
 
+![Übersicht der Mitarbeiter-Detailansicht](../illustrations/Mitarbeiter-Detailansicht-Übersicht.svg)
+
 ### 2. Neue Mitarbeiter eintragen
 
 Falls es neue Mitarbeiter gibt, trägst du sie in die Tabelle ein. Dazu einfach die Daten unten in der letzten, freien Zeile eintragen. Auch hier beantragt ihr das Führungszeugnis, füllt die Leitlinien aus und ladet diese hoch.
