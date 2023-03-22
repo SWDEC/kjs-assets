@@ -22,15 +22,19 @@ Nach und nach werden die Zeilen der Mitarbeiter grün. Ob alles passt, kannst du
 
 ### Die Mitarbeiter deiner Jugendarbeit
 
-Links in der Leiste findest du die verschiedenen Tabellen. Dort sind auch die Mitarbeiter aufgelistet. Wenn du keine siehst, hast du wahrscheinlich keine Berechtigung. Schreib uns eine Mail, dann können wir das ändern. Die Kontaktdaten findest du in der [ERNA](https://erna.swdec.de){:target="_blank" rel="noopener"}.
+Links in der Leiste findest du die verschiedenen Tabellen. Dort sind auch die Mitarbeiter aufgelistet. Wenn du keine siehst, hast du wahrscheinlich keine Berechtigung. Schreib uns eine Mail, dann können wir das ändern. Die Kontaktdaten findest du in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/63-fuhrungszeugnis-leitlinien-kinder-und-jugendschutz-gebuhrenbefreiung){:target="_blank" rel="noopener"}.
+
+### Die Leitlinien
+
+... gibt's in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/63-fuhrungszeugnis-leitlinien-kinder-und-jugendschutz-gebuhrenbefreiung){:target="_blank" rel="noopener"}
 
 ### Die Gebührenbefreiung
 
-... gibt's in der [ERNA](https://erna.swdec.de){:target="_blank" rel="noopener"}
+... gibt's in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/63-fuhrungszeugnis-leitlinien-kinder-und-jugendschutz-gebuhrenbefreiung){:target="_blank" rel="noopener"}
 
 ### Den Rückmeldebogen
 
-... gibt's in der [ERNA](https://erna.swdec.de){:target="_blank" rel="noopener"}
+... gibt's in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/67-ruckmeldebogen-kinder-und-jugendschutzbeauftragter){:target="_blank" rel="noopener"}
 
 ### Die Checkliste
 
