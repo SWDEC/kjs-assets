@@ -1,3 +1,6 @@
 name: KJS-System Assets
 title: null
 source: /pages
+
+plugins:
+  - jekyll-target-blank
