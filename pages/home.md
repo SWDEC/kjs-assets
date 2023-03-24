@@ -4,7 +4,7 @@
 
 ### 1. Mitarbeiter durchgehen
 
-Du gehst in der Mitarbeiter-Detailansicht alle Mitarbeiter deiner Jugendarbeit durch. Nachdem du in der linken Hälfte auf jemanden gelklickt hast, siehst du rechts die Eigenschaften und den Zustand. Alle weiteren wichtigen Infos für die Person findest du in der Hilfe-Box rechts oben.
+Du gehst in der Mitarbeiter-Detailansicht (zweiter Menüpunkt links "Mitarbeiter") alle Mitarbeiter deiner Jugendarbeit durch. Nachdem du in der linken Hälfte auf jemanden geklickt hast, siehst du rechts die Eigenschaften und den Zustand. Alle weiteren wichtigen Infos für die Person findest du in der Hilfe-Box rechts oben.
 
 ![Übersicht der Mitarbeiter-Detailansicht](../illustrations/Mitarbeiter-Detailansicht-Übersicht.svg)
 
@@ -30,7 +30,7 @@ Links in der Leiste findest du die verschiedenen Tabellen. Dort sind auch die Mi
 
 ### Die Gebührenbefreiung
 
-... gibt's in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/63-fuhrungszeugnis-leitlinien-kinder-und-jugendschutz-gebuhrenbefreiung){:target="_blank" rel="noopener"}
+...findest du in der linken Leiste unter "Mitarbeiter" vorausgefüllt. Die leere Version gibt's in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/63-fuhrungszeugnis-leitlinien-kinder-und-jugendschutz-gebuhrenbefreiung){:target="_blank" rel="noopener"}
 
 ### Den Rückmeldebogen
 
