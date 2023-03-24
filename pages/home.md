@@ -30,7 +30,7 @@ Links in der Leiste findest du die verschiedenen Tabellen. Dort sind auch die Mi
 
 ### Die Gebührenbefreiung
 
-...findest du in der linken Leiste unter "Mitarbeiter" vorausgefüllt. Die leere Version gibt's in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/63-fuhrungszeugnis-leitlinien-kinder-und-jugendschutz-gebuhrenbefreiung){:target="_blank" rel="noopener"}
+...findest du in der linken Leiste unter "Mitarbeiter" > "Dokumente" vorausgefüllt. Die leere Version gibt's in der [ERNA](https://erna.swdec.de/de-de/25-kinder-jugendschutz/63-fuhrungszeugnis-leitlinien-kinder-und-jugendschutz-gebuhrenbefreiung){:target="_blank" rel="noopener"}
 
 ### Den Rückmeldebogen
 
